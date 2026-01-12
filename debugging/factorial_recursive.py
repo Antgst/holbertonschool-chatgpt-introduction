@@ -5,10 +5,10 @@ import sys
 # Function Description
 # =========================
 # factorial(n) computes the factorial of an integer n using recursion.
-# It uses the rule:
+# It follows:
 #   0! = 1
 #   n! = n * (n - 1)! for n > 0
-# IMPORTANT: this version assumes n is a non-negative integer (n >= 0).
+# IMPORTANT: this implementation assumes n is a non-negative integer (n >= 0).
 # If n is negative, the recursion will never reach 0 and will crash.
 
 # =========================
@@ -25,25 +25,7 @@ def factorial(n):
     if n == 0:
         return 1
     else:
-        return n * factorial(n-1)
-
-
-# =========================
-# Function Description
-# =========================
-# Reads the first command-line argument, converts it to an integer,
-# computes its factorial, then prints the result.
-# IMPORTANT: if no argument is provided or if it's not an integer, the program will crash.
-
-# =========================
-# Parameters
-# =========================
-# sys.argv[1] (str): The first command-line argument expected to represent an integer (ideally n >= 0).
-
-# =========================
-# Returns
-# =========================
-# None: Prints the factorial result to standard output.
+        return n * factorial(n - 1)
 
 f = factorial(int(sys.argv[1]))
 print(f)
