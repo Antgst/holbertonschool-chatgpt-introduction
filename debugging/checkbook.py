@@ -21,12 +21,12 @@ class Checkbook:
         print("Current Balance: ${:.2f}".format(self.balance))
 
 
-def get_amount(prompt):
-    """Read a numeric amount from user input, retrying until valid."""
+def read_amount(prompt):
+    """Read a float amount from user input, retrying until valid."""
     while True:
-        user_input = input(prompt)
+        value = input(prompt)
         try:
-            return float(user_input)
+            return float(value)
         except ValueError:
             print("Invalid amount. Please enter a numeric value.")
 
@@ -39,10 +39,10 @@ def main():
         if action == "exit":
             break
         elif action == "deposit":
-            amount = get_amount("Enter the amount to deposit: $")
+            amount = read_amount("Enter the amount to deposit: $")
             cb.deposit(amount)
         elif action == "withdraw":
-            amount = get_amount("Enter the amount to withdraw: $")
+            amount = read_amount("Enter the amount to withdraw: $")
             cb.withdraw(amount)
         elif action == "balance":
             cb.get_balance()
