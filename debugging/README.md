@@ -1,43 +1,43 @@
-# ðŸ“˜ ChatGPT - Introduction
+# 📘 ChatGPT - Introduction
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 _No resources detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 _No learning objectives detected._
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 _No requirements detected._
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Debugging - Python Factorial</summary>
@@ -134,11 +134,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 0. Debugging - Python Factorial
 Commit used:
 User:
@@ -153,7 +153,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Debugging - Python Factorial"
 ```
 
@@ -214,11 +214,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 1. Debugging - Python Arguments
 Commit used:
 User:
@@ -233,7 +233,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Debugging - Python Arguments"
 ```
 
@@ -427,7 +427,7 @@ pt
 0
 correction requests
 QA Review
-Ã—
+×
 2. Debugging - HTML / Javascript
 Commit used:
 User:
@@ -442,7 +442,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Debugging - HTML / Javascript"
 ```
 
@@ -783,7 +783,7 @@ pt
 0
 correction requests
 QA Review
-Ã—
+×
 3. Debugging - Python Mines
 Commit used:
 User:
@@ -798,7 +798,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Debugging - Python Mines"
 ```
 
@@ -874,7 +874,7 @@ pt
 0
 correction requests
 QA Review
-Ã—
+×
 4. Documentation - Python Factorial
 Commit used:
 User:
@@ -889,7 +889,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Documentation - Python Factorial"
 ```
 
@@ -1139,7 +1139,7 @@ pt
 0
 correction requests
 QA Review
-Ã—
+×
 5. Error Handling - Python Checkbook
 Commit used:
 User:
@@ -1154,7 +1154,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Error Handling - Python Checkbook"
 ```
 
@@ -1387,7 +1387,7 @@ pts
 0
 correction requests
 QA Review
-Ã—
+×
 6. Debugging - Tic Tac Toe Python
 Commit used:
 User:
@@ -1402,7 +1402,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Debugging - Tic Tac Toe Python"
 ```
 
@@ -1411,13 +1411,13 @@ Students who are done with "6. Debugging - Tic Tac Toe Python"
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 
