@@ -122,39 +122,12 @@ Directory:
 debugging
 File:
 factorial.py
-Score of the task
-1
-/1
-pt
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 0. Debugging - Python Factorial
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Debugging - Python Factorial"
 ```
 
 </details>
@@ -202,39 +175,12 @@ Directory:
 debugging
 File:
 print_arguments.py
-Score of the task
-1
-/1
-pt
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 1. Debugging - Python Arguments
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Debugging - Python Arguments"
 ```
 
 </details>
@@ -419,31 +365,12 @@ Directory:
 debugging
 File:
 change_background.html
-Score of the task
-1
-/1
-pt
-100.0%
-0
-correction requests
-QA Review
-×
 2. Debugging - HTML / Javascript
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Debugging - HTML / Javascript"
 ```
 
 </details>
@@ -775,31 +702,12 @@ Directory:
 debugging
 File:
 mines.py
-Score of the task
-1
-/1
-pt
-100.0%
-0
-correction requests
-QA Review
-×
 3. Debugging - Python Mines
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Debugging - Python Mines"
 ```
 
 </details>
@@ -866,31 +774,12 @@ Directory:
 debugging
 File:
 factorial_recursive.py
-Score of the task
-1
-/1
-pt
-100.0%
-0
-correction requests
-QA Review
-×
 4. Documentation - Python Factorial
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Documentation - Python Factorial"
 ```
 
 </details>
@@ -1131,31 +1020,12 @@ Directory:
 debugging
 File:
 checkbook.py
-Score of the task
-1
-/1
-pt
-100.0%
-0
-correction requests
-QA Review
-×
 5. Error Handling - Python Checkbook
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Error Handling - Python Checkbook"
 ```
 
 </details>
@@ -1379,31 +1249,12 @@ Directory:
 debugging
 File:
 tic.py
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-QA Review
-×
 6. Debugging - Tic Tac Toe Python
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Debugging - Tic Tac Toe Python"
 ```
 
 </details>
